@@ -1,8 +1,8 @@
-Nmae Deepesh Jangid
-ID : COD7133
-Domain : Machine Learning 
-Duration : 25 april to 25 may 2024
- Mentor : sravani gouni
+Nmae Deepesh Jangid , 
+ID : COD7133 , 
+Domain : Machine Learning  , 
+Duration : 25 april to 25 may 2024  , 
+ Mentor : sravani gouni  , 
  Description :
 **Title: Enhancing Financial Security with Advanced Credit Card Fraud Detection**
 

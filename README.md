@@ -1,4 +1,4 @@
-Nmae Deepesh Jangid , 
+Name Deepesh Jangid , 
 ID : COD7133 , 
 Domain : Machine Learning  , 
 Duration : 25 april to 25 may 2024  , 
